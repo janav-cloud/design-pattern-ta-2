@@ -1,0 +1,12 @@
+Main.class
+LoginService.class
+Observer.class
+Transaction.class
+Market.class
+BuyingStrategy.class
+Investor.class
+ConservativeStrategy.class
+Admin.class
+DatabaseManager.class
+AggressiveStrategy.class
+Stock.class
